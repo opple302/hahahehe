@@ -1,5 +1,6 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
+        // hello bro
         int[] result = new int[2];
         int temp;
         for (int i=0; i<nums.length;i++) {
